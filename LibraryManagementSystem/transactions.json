@@ -1,0 +1,14 @@
+[
+    {
+        "book_id": "B001",
+        "member_id": "M001",
+        "action": "Issued",
+        "date": "2026-07-26 11:30:00"
+    },
+    {
+        "book_id": "B002",
+        "member_id": "M003",
+        "action": "Returned",
+        "date": "2026-07-26 12:00:00"
+    },
+]
