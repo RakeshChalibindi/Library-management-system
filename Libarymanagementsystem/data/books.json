@@ -1,0 +1,30 @@
+[
+    {
+        "book_id": 1,
+        "title": "The Hobbit Redux",
+        "author": "J.R.R. Tolkien Sr.",
+        "isbn": "999888777",
+        "is_available": true
+    },
+    {
+        "book_id": 2,
+        "title": "1984",
+        "author": "George Orwell",
+        "isbn": "987654321",
+        "is_available": true
+    },
+    {
+        "book_id": 3,
+        "title": "python",
+        "author": "srinu",
+        "isbn": "123",
+        "is_available": true
+    },
+    {
+        "book_id": 4,
+        "title": "srinubabu",
+        "author": "babu",
+        "isbn": "12",
+        "is_available": false
+    }
+]
